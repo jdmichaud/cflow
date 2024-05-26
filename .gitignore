@@ -1,0 +1,91 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+.deps
+.dirstamp
+
+tests/atconfig
+tests/atlocal
+tests/Makefile
+doc/imprimatur/Makefile
+doc/Makefile
+elisp/Makefile
+
+stamp-h1
+config.h
+config.log
+config.status
+
+
+po/Makefile
+po/Makefile.in
+po/POTFILES
+
+gnu/alloca.h
+gnu/fcntl.h
+gnu/getopt-cdefs.h
+gnu/getopt.h
+gnu/inttypes.h
+gnu/limits.h
+gnu/Makefile
+gnu/stdio.h
+gnu/stdlib.h
+gnu/string.h
+gnu/strings.h
+gnu/sys/stat.h
+gnu/sys/types.h
+gnu/time.h
+gnu/unistd.h
+gnu/wchar.h
+
+src/cflow
